@@ -1,37 +1,151 @@
-# Framekart 👓 - Eyewear website
+# 👓 FrameKart – An Eyewear Website
 
-Framekart is a modern, responsive front-end web application for an online eyewear and sunglasses store. Built using HTML, CSS, and JavaScript, it provides a seamless user experience across various device sizes.
-
----
-
-## 🌟 Features
-
-* **Home Page (`index.html`):** Interactive landing page highlighting featured eyewear products, promotional banners, and site navigation.
-* **Shop & Product Details (`shop.html`, `sproduct.html`):** Complete product catalog with dedicated single-product views for detailed inspection.
-* **Shopping Cart (`cart.html`):** User-friendly cart interface to view selected products and total prices.
-* **Blog Section (`blog.html`):** Space for articles, style guides, and eyewear trends.
-* **About & Contact (`about.html`, `contact.html`):** Information about the brand along with a contact form and details.
-* **Responsive Design:** Optimized layout for desktop, tablet, and mobile views using standard CSS media queries.
+A modern and responsive eyewear e-commerce website built using **HTML, CSS, and JavaScript**. FrameKart provides users with an attractive online shopping experience where they can explore eyewear collections, read blogs, and navigate through different pages with a clean and responsive user interface.
 
 ---
 
-## 📁 Repository Structure
+## 🌐 Live Preview
 
-```text
-framekart-An_Eyewear_Website/
+> Run the project locally using Live Server or open `index.html` in your browser.
+
+---
+
+## 📷 Screenshots
+
+Add screenshots inside the **img/** folder and update the paths below.
+
+## 📌 Features
+
+- 🏠 Responsive Home Page
+- 🛍️ Product Shop Page
+- 👓 Eyewear Product Listings
+- 📰 Blog Section
+- ℹ️ About Us Page
+- 📞 Contact Page
+- 🛒 Shopping Cart Page
+- 📱 Mobile-Friendly Design
+- 🎨 Modern UI/UX
+- 🔍 Clean Navigation Bar
+- ⚡ Fast and Lightweight
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Google Fonts
+- Font Awesome Icons
+
+---
+
+## 📂 Project Structure
+
+```
+FrameKart-An_Eyewear_Website/
 │
-├── img/             # Images, product assets, and icons
-├── index.html       # Landing page
-├── shop.html        # Main shop listing page
-├── sproduct.html    # Single product detail page
-├── cart.html        # Shopping cart page
-├── blog.html        # Eyewear blog and news
-├── about.html       # About us page
-├── contact.html     # Contact us page
-├── style.css        # Main stylesheet
-└── script.js        # JavaScript interactivity (navigation toggle, product features)
+├── img/
+│
+├── index.html
+├── shop.html
+├── sproduct.html
+├── blog.html
+├── about.html
+├── contact.html
+├── cart.html
+│
+├── style.css
+├── script.js
+│
+└── README.md
+```
 
-🛠️ Tech Stack
-HTML5: Semantic markup for structured page layouts.
-CSS3: Custom styling, flexbox/grid layout, and responsive design.
-JavaScript (Vanilla): Dynamic functionality and site interactions.
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/poojayadav40/framekart-An_Eyewear_Website.git
+```
+
+### 2. Open the Project
+
+```bash
+cd framekart-An_Eyewear_Website
+```
+
+### 3. Run the Project
+
+Open **index.html** using:
+
+- Live Server (VS Code Recommended)
+- Any modern web browser
+
+---
+
+## 📸 Website Pages
+
+### 🏠 Home
+- Hero Banner
+- Featured Products
+- Promotional Offers
+- Responsive Navigation
+
+### 🛍️ Shop
+- Product Collection
+- Product Cards
+- Ratings
+- Pricing
+
+### 📰 Blog
+- Latest Eyewear Articles
+- Fashion Tips
+- Frame Guides
+
+### ℹ️ About
+- Company Information
+- Brand Story
+
+### 📞 Contact
+- Contact Information
+- Customer Support Section
+
+### 🛒 Cart
+- Shopping Cart Interface
+
+---
+
+## 💡 Future Enhancements
+
+- User Authentication (Login/Signup)
+- Wishlist Feature
+- Product Search
+- Product Filtering
+- Payment Gateway Integration
+- Order Tracking
+- Backend Integration
+- Database Connectivity
+- Admin Dashboard
+
+---
+
+## 🎯 Learning Outcomes
+
+This project helped in learning:
+
+- Responsive Web Design
+- HTML Page Structuring
+- CSS Flexbox & Grid
+- JavaScript DOM Manipulation
+- Website Navigation
+- UI Design Principles
+- Git & GitHub
+
+---
+
+
+
+
