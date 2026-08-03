@@ -4,15 +4,40 @@ A modern and responsive eyewear e-commerce website built using **HTML, CSS, and 
 
 ---
 
-## 🌐 Live Preview
+## 🌐 Live Demo
 
-> Run the project locally using Live Server or open `index.html` in your browser.
+🚀 **Visit the live website here:**
+
+**https://framekart-an-eyewear-website.vercel.app/**
+
+Or click the link below:
+
+👉 https://framekart-an-eyewear-website.vercel.app/
 
 ---
 
+
+
 ## 📷 Screenshots
 
-Add screenshots inside the **img/** folder and update the paths below.
+<img width="1920" height="1080" alt="Screenshot (244)" src="https://github.com/user-attachments/assets/f9938d2b-11e6-4fe4-903e-daabdb034e3c" />
+#
+
+<img width="1920" height="1080" alt="Screenshot (245)" src="https://github.com/user-attachments/assets/1b86d86e-ef65-4cf2-8916-ecc8359047b9" />
+#
+<img width="1920" height="1080" alt="Screenshot (246)" src="https://github.com/user-attachments/assets/63737c46-ff6e-45a3-a021-3982b65f8978" />
+#
+<img width="1920" height="1080" alt="Screenshot (247)" src="https://github.com/user-attachments/assets/dc7f8ef4-5c82-42cd-88ba-a620806e3c79" />
+
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Google Fonts
+- Font Awesome Icons
+
 
 ## 📌 Features
 
@@ -30,13 +55,7 @@ Add screenshots inside the **img/** folder and update the paths below.
 
 ---
 
-## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
-- Google Fonts
-- Font Awesome Icons
 
 ---
 
