@@ -10,9 +10,7 @@ A modern and responsive eyewear e-commerce website built using **HTML, CSS, and 
 
 **https://framekart-an-eyewear-website.vercel.app/**
 
-Or click the link below:
 
-👉 https://framekart-an-eyewear-website.vercel.app/
 
 ---
 
