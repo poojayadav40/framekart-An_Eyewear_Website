@@ -1,4 +1,4 @@
-# Framekart 👓 - Eyewear & Sunglasses Online Store
+# Framekart 👓 - Eyewear website
 
 Framekart is a modern, responsive front-end web application for an online eyewear and sunglasses store. Built using HTML, CSS, and JavaScript, it provides a seamless user experience across various device sizes.
 
